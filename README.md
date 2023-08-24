@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Kyo
 
 A Python developer and blogger from Taiwan.
+I write blog posts on [Code and Me](https://blog.kyomind.tw/), mainly focusing on programming, note-taking, and writing.
 
 
 ### Languages and Tools
