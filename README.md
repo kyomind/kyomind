@@ -4,7 +4,11 @@ A Python developer and blogger from Taiwan.
 I write blog posts on [Code and Me](https://blog.kyomind.tw/), mainly focusing on programming, note-taking, and writing.
 
 
-### Languages and Tools
+### 最新文章
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 熟悉語言與工具
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/Django-214a35?style=flat&logo=Django&logoColor=FFFFFF)
