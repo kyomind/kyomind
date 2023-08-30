@@ -6,9 +6,9 @@ I write blogs on [Code and Me](https://blog.kyomind.tw/), mainly focusing on pro
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
- - 2023-08-28
- - 2023-08-19
- - 2023-08-16<!-- BLOG-POST-LIST:END -->
+ [剛剛好：Notion database「反複雜」使用指南](https://blog.kyomind.tw/notion-database/) - 2023-08-28
+ [《Python 功力提升的樂趣》筆記（二）Pythonic、行話、陷阱](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-02/) - 2023-08-19
+ [Apple Studio Display 適合你嗎？——我的心得與選購指南](https://blog.kyomind.tw/apple-studio-display/) - 2023-08-16<!-- BLOG-POST-LIST:END -->
 
 ### 語言與工具
 
