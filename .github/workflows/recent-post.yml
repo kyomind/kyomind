@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: 取得 Code and Me 最新文章
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
