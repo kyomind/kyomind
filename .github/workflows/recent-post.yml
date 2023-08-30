@@ -16,5 +16,5 @@ jobs:
       - name: Pull in my posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.kyomind.tw/"
+          feed_list: "https://blog.kyomind.tw/atom.xml"
           max_post_count: 3
