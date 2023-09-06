@@ -9,7 +9,7 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 ### 近期學習目標
 下半年主要學習目標：OpenAI API 應用開發、LINE Bot。大語言模型的誕生，讓非 ML 本職的開發者也有機會做出實用的 AI 相關應用。我打算結合 LINE Bot 摸索學習、實作，至少可以讓生活更方便，自娛娛人🐸。有感後端總要會一點 CI/CD，我選擇 GitHub Actions，即使公司沒有，至少個人開發很有用！
 
-- 書：[寫作課：陳雪給創作者的12道心法](https://www.books.com.tw/products/0010960176)
+- 書：[寫作課：陳雪給創作者的12道心法](https://readmoo.com/book/210278736000101)
 - 線上課：[GitHub Actions - The Complete Guide](https://pro.academind.com/p/github-actions-the-complete-guide)
 - 實體課：[大語言模型 LLM 應用開發工作坊](https://5xruby.tw/courses/ai-workshop)
 
