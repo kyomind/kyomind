@@ -13,7 +13,7 @@ I write blogs on [Code and Me](https://blog.kyomind.tw/), mainly focusing on pro
 - 線上課：[GitHub Actions - The Complete Guide](https://pro.academind.com/p/github-actions-the-complete-guide)
 
 ### 最新文章與寫作方向
-部落格的每月瀏覽數終於在 2023/8 突破 2 萬了！感動🥹。不過程式文章只佔了流量的一半，所以接下來要增加技術類發文比重，具體寫作目標為「[Kyo's Django Toturial](https://github.com/kyomind/kyo-django-tutorial)」系列，面向 Django API 開發，預計會有 10 篇。
+部落格的每月瀏覽數終於在 2023/8 突破 2 萬了！感動🥹。不過程式文章只佔了流量的一半，所以接下來要增加技術類的發文比重。具體寫作目標為「[Kyo's Django Toturial](https://github.com/kyomind/kyo-django-tutorial)」系列，面向 Django API 開發，預計會有 10 篇。
 <!-- BLOG-POST-LIST:START -->
  - [剛剛好：Notion database「反複雜」使用指南](https://blog.kyomind.tw/notion-database/) - 08/28
  - [《Python 功力提升的樂趣》筆記（二）Pythonic、行話、陷阱](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-02/) - 08/19
