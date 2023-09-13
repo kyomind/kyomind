@@ -7,7 +7,7 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 法律系畢業，當過書記官，目前為 Django 後端工程師。平時的興趣是寫作與筆記，患有「不做筆記便不會學習」症候群。眾多筆記 app 中，我最喜歡 [Logseq](https://blog.kyomind.tw/logseq/)，你呢？對 [Code Formatting](https://blog.kyomind.tw/tags/Code-Formatting/) 與文件有著超乎常人的追求，平時負責督促同事寫好 [docstring](https://peps.python.org/pep-0257/)，廣積陰德，希望能夠[寫程式到 70 歲](https://blog.kyomind.tw/weekly-review-02/)。更完整的介紹可以參考「[關於我](https://blog.kyomind.tw/about/)」。
 
 ### 近期關注與投入
-下半年主要學習目標：OpenAI API 應用開發、LINE Bot。大語言模型的誕生，讓非 ML 本職的開發者也有機會做出實用的 AI 相關應用。我打算結合 LINE Bot 摸索學習、實作，至少可以讓生活更方便，自娛娛人🐸。有感後端總要會一點 CI/CD，我選擇 GitHub Actions，即使公司沒有，至少個人開發很有用！
+下半年主要學習目標：OpenAI API、LINE API 應用開發。大語言模型的誕生，讓非 ML 本職的開發者也有機會做出實用的 AI 相關應用。我打算結合 LINE Bot 摸索學習、實作，至少可以讓生活更方便，自娛娛人🐸。有感後端總要會一點 CI/CD，我選擇 GitHub Actions，即使公司沒有，至少個人開發很有用！
 
 - 書：[寫作課：陳雪給創作者的12道心法](https://readmoo.com/book/210278736000101)
 - 課程：[GitHub Actions - The Complete Guide](https://pro.academind.com/p/github-actions-the-complete-guide)、[大語言模型 LLM 應用開發工作坊](https://5xruby.tw/courses/ai-workshop)
