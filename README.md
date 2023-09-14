@@ -24,10 +24,10 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### Skills
 
-![Python](https://img.shields.io/badge/Python-555?style=flat&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-555?style=flat&logo=Django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555?style=flat&logo=Docker&logoColor=white)
-![ProstgreSQL](https://img.shields.io/badge/PostgreSQL-555?style=flat&logo=PostgreSQL&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-555?style=flat&logo=Flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-444?style=flat&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-444?style=flat&logo=Django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-444?style=flat&logo=Docker&logoColor=white)
+![ProstgreSQL](https://img.shields.io/badge/PostgreSQL-444?style=flat&logo=PostgreSQL&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-444?style=flat&logo=Flask&logoColor=white)
 <img align="right" src="https://komarev.com/ghpvc/?username=kyomind">
 
