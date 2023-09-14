@@ -1,3 +1,4 @@
+
 ### Hi 👋, I'm Kyo
 
 A Python developer from Taiwan.
@@ -21,10 +22,12 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
  - [剛剛好：Notion database「反複雜」使用指南](https://blog.kyomind.tw/notion-database/) - 08/28
  - [《Python 功力提升的樂趣》筆記（二）Pythonic、行話、陷阱](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-02/) - 08/19<!-- BLOG-POST-LIST:END -->
 
-### 語言與工具
+### Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django-214a35?style=flat&logo=Django&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=FFFFFF)
-![ProstgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=Python)
+![Django](https://img.shields.io/badge/Django-000?style=flat&logo=Django)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=Docker)
+![ProstgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=PostgreSQL)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=Flask)
+<img align="right" src="https://komarev.com/ghpvc/?username=kyomind">
+
