@@ -18,9 +18,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 ### 最新文章與寫作方向
 開張 2 年餘，部落格每月瀏覽數終於破 2 萬了！感動🥹。不過程式文章只佔了流量的一半，接下來要增加技術類的發文比重。具體寫作目標為「[Kyo's Django Toturial](https://github.com/kyomind/kyo-django-tutorial)」系列，面向 Django API 開發，預計會有 10 篇。
 <!-- BLOG-POST-LIST:START -->
+ - [Cal Newport 與我的河濱思考](https://blog.kyomind.tw/think-riverside/) - 09/14
  - [21，在 VM 上部署 GA 的開源替代品——Umami](https://blog.kyomind.tw/weekly-review-21/) - 09/10
- - [剛剛好：Notion database「反複雜」使用指南](https://blog.kyomind.tw/notion-database/) - 08/28
- - [《Python 功力提升的樂趣》筆記（二）Pythonic、行話、陷阱](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-02/) - 08/19<!-- BLOG-POST-LIST:END -->
+ - [剛剛好：Notion database「反複雜」使用指南](https://blog.kyomind.tw/notion-database/) - 08/28<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
