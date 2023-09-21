@@ -29,6 +29,5 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 ![Docker](https://img.shields.io/badge/Docker-444?style=flat&logo=Docker&logoColor=white)
 ![ProstgreSQL](https://img.shields.io/badge/PostgreSQL-444?style=flat&logo=PostgreSQL&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-444?style=flat&logo=GitHubActions&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-444?style=flat&logo=Flask&logoColor=white)
 <img align="right" src="https://komarev.com/ghpvc/?username=kyomind">
 
