@@ -15,9 +15,9 @@ OpenAI API、LINE API 應用開發。大語言模型的誕生，讓非 ML 本職
 ### 文章與寫作
 開張 2 年餘，部落格每月瀏覽數終於破 2 萬了！感動🥹。不過程式文章只佔了流量的一半，接下來要增加技術類的發文比重。具體寫作目標為「[Kyo's Django Toturial](https://github.com/kyomind/Django-Tutorial)」系列，面向 Django API 開發，預計會有 10 篇。
 <!-- BLOG-POST-LIST:START -->
+ - [24，收回「發文計畫」](https://blog.kyomind.tw/weekly-review-24/) - 11/03
  - [《Python 功力提升的樂趣》筆記（三）函式、註解、docstring](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-03/) - 10/21
- - [2023 那些我已不可或缺的「付費訂閱」推薦](https://blog.kyomind.tw/essential-subscriptions-2023/) - 10/10
- - [別依賴「試誤法」寫程式](https://blog.kyomind.tw/stop-trial-and-error/) - 10/04<!-- BLOG-POST-LIST:END -->
+ - [2023 那些我已不可或缺的「付費訂閱」推薦](https://blog.kyomind.tw/essential-subscriptions-2023/) - 10/10<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
