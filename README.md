@@ -6,14 +6,7 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 ### 簡介
 法律系畢業，當過書記官，目前為 Django 後端工程師。平時的興趣是寫作與筆記，患有「不做筆記便不會學習」症候群。眾多筆記 app 中，我最喜歡 [Logseq](https://blog.kyomind.tw/logseq/)，你呢？對 [Code Formatting](https://blog.kyomind.tw/tags/Code-Formatting/) 與文件有著超乎常人的追求，平時負責督促同事寫好 docstring，廣積陰德，希望能夠[寫程式到 70 歲](https://blog.kyomind.tw/weekly-review-02/)。更完整的介紹可以參考「[關於我](https://blog.kyomind.tw/about/)」。
 
-### 學習方向
-OpenAI API、LINE API 應用開發。大語言模型的誕生，讓非 ML 本職的開發者也有機會做出有價值的 AI 相關應用。我打算結合 LINE Bot 摸索學習、實作，至少可以讓生活更方便。有感後端總要會一點 CI/CD，我選擇 GitHub Actions，即使公司沒有，至少個人開發很有用！預計實作：
-
-- Line 通知機器人，專案已經開了，叫 [Line-Alchemists](https://github.com/kyomind/Line-Alchemists)。相關技術：Django、LINE API、Notion API。
-- 考慮用 GitHub Actions 實作 blog 的 [TOP 10](https://blog.kyomind.tw/top/) 排名，以達成每日自動化。相關技術：GitHub Actions、GA4 API。
-
-### 文章與寫作
-開張 2 年餘，部落格每月瀏覽數終於破 2 萬了！感動🥹。不過程式文章只佔了流量的一半，接下來要增加技術類的發文比重。具體寫作目標為「[Kyo's Django Toturial](https://github.com/kyomind/Django-Tutorial)」系列，面向 Django API 開發，預計會有 10 篇。
+### 最新文章
 <!-- BLOG-POST-LIST:START -->
  - [24，收回「發文計畫」](https://blog.kyomind.tw/weekly-review-24/) - 11/03
  - [《Python 功力提升的樂趣》筆記（三）函式、註解、docstring](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-03/) - 10/21
