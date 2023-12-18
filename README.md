@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Python 開發：Ruff Linter、Formatter 介紹 + 設定教學](https://blog.kyomind.tw/ruff/) - 12/17
  - [24，收回「發文計畫」](https://blog.kyomind.tw/weekly-review-24/) - 11/03
- - [《Python 功力提升的樂趣》筆記（三）函式、註解、docstring](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-03/) - 10/21
- - [2023 那些我已不可或缺的「付費訂閱」推薦](https://blog.kyomind.tw/essential-subscriptions-2023/) - 10/10<!-- BLOG-POST-LIST:END -->
+ - [《Python 功力提升的樂趣》筆記（三）函式、註解、docstring](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-03/) - 10/21<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
