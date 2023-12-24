@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [《人生 4 千個禮拜》筆記（一）病態的生產力](https://blog.kyomind.tw/four-thousand-weeks-01/) - 12/23
  - [Python 開發：Ruff Linter、Formatter 介紹 + 設定教學](https://blog.kyomind.tw/ruff/) - 12/17
- - [24，收回「發文計畫」](https://blog.kyomind.tw/weekly-review-24/) - 11/03
- - [《Python 功力提升的樂趣》筆記（三）函式、註解、docstring](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python-03/) - 10/21<!-- BLOG-POST-LIST:END -->
+ - [24，收回「發文計畫」](https://blog.kyomind.tw/weekly-review-24/) - 11/03<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
