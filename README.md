@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [為文章加上「Not By AI」標籤？ 我覺得大可不必](https://blog.kyomind.tw/not-by-ai/) - 01/14
  - [Django ORM：一對一、一對多外鍵教學（中）反向關聯](https://blog.kyomind.tw/reverse-relationships/) - 01/06
- - [《人生 4 千個禮拜》筆記（一）病態的生產力](https://blog.kyomind.tw/four-thousand-weeks-01/) - 12/23
- - [Python 開發：Ruff Linter、Formatter 介紹 + 設定教學](https://blog.kyomind.tw/ruff/) - 12/17<!-- BLOG-POST-LIST:END -->
+ - [《人生 4 千個禮拜》筆記（一）病態的生產力](https://blog.kyomind.tw/four-thousand-weeks-01/) - 12/23<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
