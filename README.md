@@ -8,7 +8,7 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
- - [為文章加上「Not By AI」標籤？ 我覺得大可不必](https://blog.kyomind.tw/not-by-ai/) - 01/14
+ - [為文章標註 Not By AI？ 我覺得大可不必](https://blog.kyomind.tw/not-by-ai/) - 01/14
  - [Django ORM：一對一、一對多外鍵教學（中）反向關聯](https://blog.kyomind.tw/reverse-relationships/) - 01/06
  - [《人生 4 千個禮拜》筆記（一）病態的生產力](https://blog.kyomind.tw/four-thousand-weeks-01/) - 12/23<!-- BLOG-POST-LIST:END -->
 
