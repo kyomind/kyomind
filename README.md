@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [《Python 工匠》筆記（一）如何寫好註解](https://blog.kyomind.tw/python-craftsman-01/) - 02/28
  - [為什麼你「不需要」所謂的人生管理系統](https://blog.kyomind.tw/less-is-more/) - 01/21
- - [為文章標註 Not By AI？ 我覺得大可不必](https://blog.kyomind.tw/not-by-ai/) - 01/14
- - [Django ORM：一對一、一對多外鍵教學（中）反向關聯](https://blog.kyomind.tw/reverse-relationships/) - 01/06<!-- BLOG-POST-LIST:END -->
+ - [為文章標註 Not By AI？ 我覺得大可不必](https://blog.kyomind.tw/not-by-ai/) - 01/14<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
