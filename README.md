@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [《Python 工匠》筆記（二）對「單元測試」的看法與建議](https://blog.kyomind.tw/python-craftsman-02/) - 03/17
  - [《人生 4 千個禮拜》筆記（二）抗拒「重要性中等」的誘惑](https://blog.kyomind.tw/four-thousand-weeks-02/) - 03/04
- - [《Python 工匠》筆記（一）如何寫好註解](https://blog.kyomind.tw/python-craftsman-01/) - 02/28
- - [為什麼你「不需要」所謂的人生管理系統](https://blog.kyomind.tw/less-is-more/) - 01/21<!-- BLOG-POST-LIST:END -->
+ - [《Python 工匠》筆記（一）如何寫好註解](https://blog.kyomind.tw/python-craftsman-01/) - 02/28<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
