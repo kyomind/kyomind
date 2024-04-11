@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [26，改用 Buttondown 作為文章訂閱服務](https://blog.kyomind.tw/weekly-review-26/) - 04/10
  - [《強健的 Python》筆記（一）Type Hints 的成本與挑戰](https://blog.kyomind.tw/robust-python-01/) - 04/06
- - [25，回歸原點的 Weekly Review](https://blog.kyomind.tw/weekly-review-25/) - 03/20
- - [《Python 工匠》筆記（二）對「單元測試」的看法與建議](https://blog.kyomind.tw/python-craftsman-02/) - 03/17<!-- BLOG-POST-LIST:END -->
+ - [25，回歸原點的 Weekly Review](https://blog.kyomind.tw/weekly-review-25/) - 03/20<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
