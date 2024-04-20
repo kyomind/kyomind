@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Python API 開發：善用 Enum 的三大關鍵特性](https://blog.kyomind.tw/python-enum/) - 04/19
  - [27，正式入手《流暢的 Python》第二版](https://blog.kyomind.tw/weekly-review-27/) - 04/14
- - [26，改用 Buttondown 作為文章訂閱服務](https://blog.kyomind.tw/weekly-review-26/) - 04/10
- - [《強健的 Python》筆記（一）Type Hints 的成本與挑戰](https://blog.kyomind.tw/robust-python-01/) - 04/06<!-- BLOG-POST-LIST:END -->
+ - [26，改用 Buttondown 作為文章訂閱服務](https://blog.kyomind.tw/weekly-review-26/) - 04/10<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
