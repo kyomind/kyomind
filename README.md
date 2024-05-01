@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [29，我編輯舊文的三個理由](https://blog.kyomind.tw/weekly-review-29/) - 04/30
  - [Django HttpRequest 常用屬性介紹](https://blog.kyomind.tw/django-request/) - 04/28
- - [28，去了 2 個月圖書館之後](https://blog.kyomind.tw/weekly-review-28/) - 04/24
- - [Python API 開發：善用 Enum 的三大關鍵特性](https://blog.kyomind.tw/python-enum/) - 04/19<!-- BLOG-POST-LIST:END -->
+ - [28，去了 2 個月圖書館之後](https://blog.kyomind.tw/weekly-review-28/) - 04/24<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
