@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [我寫「AI 對話筆記」的方法與思考](https://blog.kyomind.tw/my-ai-dialogue-notes/) - 05/14
  - [Django REST framework 教學（一）前言篇](https://blog.kyomind.tw/django-rest-framework-01/) - 05/11
- - [我絕不用 result 作為變數名稱](https://blog.kyomind.tw/no-result/) - 05/04
- - [29，我編輯舊文的三個理由](https://blog.kyomind.tw/weekly-review-29/) - 04/30<!-- BLOG-POST-LIST:END -->
+ - [我絕不用 result 作為變數名稱](https://blog.kyomind.tw/no-result/) - 05/04<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
