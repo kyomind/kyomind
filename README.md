@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [31，打造新版「熱門文章排名」](https://blog.kyomind.tw/weekly-review-31/) - 06/02
  - [Django REST framework 教學（二）基本設定與路由](https://blog.kyomind.tw/django-rest-framework-02/) - 06/01
- - [30，如何持續寫作——Part 3](https://blog.kyomind.tw/weekly-review-30/) - 05/26
- - [Python 專案從 Flake8、isort、Black 遷移至 Ruff 指南](https://blog.kyomind.tw/migrate-to-ruff/) - 05/25<!-- BLOG-POST-LIST:END -->
+ - [30，如何持續寫作——Part 3](https://blog.kyomind.tw/weekly-review-30/) - 05/26<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
