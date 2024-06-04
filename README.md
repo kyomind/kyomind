@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [《Effective Python》筆記（一）以拆分代替索引](https://blog.kyomind.tw/effective-python-01/) - 06/03
  - [31，打造新版「熱門文章排名」](https://blog.kyomind.tw/weekly-review-31/) - 06/02
- - [Django REST framework 教學（二）基本設定與路由](https://blog.kyomind.tw/django-rest-framework-02/) - 06/01
- - [30，如何持續寫作——Part 3](https://blog.kyomind.tw/weekly-review-30/) - 05/26<!-- BLOG-POST-LIST:END -->
+ - [Django REST framework 教學（二）基本設定與路由](https://blog.kyomind.tw/django-rest-framework-02/) - 06/01<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
