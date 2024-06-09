@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [用 Django Fixture 匯入與導出資料](https://blog.kyomind.tw/django-fixtures/) - 06/08
  - [《Effective Python》筆記（一）以拆分代替索引](https://blog.kyomind.tw/effective-python-01/) - 06/03
- - [31，打造新版「熱門文章排名」](https://blog.kyomind.tw/weekly-review-31/) - 06/02
- - [Django REST framework 教學（二）基本設定與路由](https://blog.kyomind.tw/django-rest-framework-02/) - 06/01<!-- BLOG-POST-LIST:END -->
+ - [31，打造新版「熱門文章排名」](https://blog.kyomind.tw/weekly-review-31/) - 06/02<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
