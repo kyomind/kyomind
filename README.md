@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [現代軟體的「鍵盤快捷鍵」記憶爭奪戰](https://blog.kyomind.tw/keyboard-shortcuts/) - 06/09
  - [用 Django Fixture 匯入與導出資料](https://blog.kyomind.tw/django-fixtures/) - 06/08
- - [《Effective Python》筆記（一）以拆分代替索引](https://blog.kyomind.tw/effective-python-01/) - 06/03
- - [31，打造新版「熱門文章排名」](https://blog.kyomind.tw/weekly-review-31/) - 06/02<!-- BLOG-POST-LIST:END -->
+ - [《Effective Python》筆記（一）以拆分代替索引](https://blog.kyomind.tw/effective-python-01/) - 06/03<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
