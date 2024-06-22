@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [32，下半年寫作目標](https://blog.kyomind.tw/weekly-review-32/) - 06/21
  - [Django ORM：一對一、一對多外鍵教學（下）關聯查詢](https://blog.kyomind.tw/django-orm-query-relations/) - 06/15
- - [現代軟體的「鍵盤快捷鍵」記憶爭奪戰](https://blog.kyomind.tw/keyboard-shortcuts/) - 06/09
- - [用 Django Fixture 匯入與導出資料](https://blog.kyomind.tw/django-fixtures/) - 06/08<!-- BLOG-POST-LIST:END -->
+ - [現代軟體的「鍵盤快捷鍵」記憶爭奪戰](https://blog.kyomind.tw/keyboard-shortcuts/) - 06/09<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
