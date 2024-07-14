@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [《Python 工匠》筆記（三）有關「變數」的程式設計建議](https://blog.kyomind.tw/python-craftsman-03/) - 07/13
  - [《Python 功力提升的樂趣》心得與總結：給 Python 開發者的 Clean Code 入門指南](https://blog.kyomind.tw/beyond-the-basic-stuff-with-python/) - 06/30
- - [33，Tony Huang 與我的坪林之旅](https://blog.kyomind.tw/weekly-review-33/) - 06/29
- - [Django REST framework 教學（三）View 函式](https://blog.kyomind.tw/django-rest-framework-03/) - 06/29<!-- BLOG-POST-LIST:END -->
+ - [33，Tony Huang 與我的坪林之旅](https://blog.kyomind.tw/weekly-review-33/) - 06/29<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
