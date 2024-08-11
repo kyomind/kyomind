@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Cursor IDE 心得：三大亮點與三個阻礙](https://blog.kyomind.tw/cursor/) - 08/10
  - [35，開始備戰 2024 iThome 鐵人賽](https://blog.kyomind.tw/weekly-review-35/) - 08/04
- - [34，宜蘭二日遊與近況回顧](https://blog.kyomind.tw/weekly-review-34/) - 07/22
- - [《Python 工匠》筆記（三）有關「變數」的程式設計建議](https://blog.kyomind.tw/python-craftsman-03/) - 07/13<!-- BLOG-POST-LIST:END -->
+ - [34，宜蘭二日遊與近況回顧](https://blog.kyomind.tw/weekly-review-34/) - 07/22<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
