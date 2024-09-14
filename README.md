@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Django Ninja 教學 01：系列導讀 × 目標讀者](https://blog.kyomind.tw/django-ninja-01/) - 09/13
  - [2024 iThome 鐵人賽參賽思路：主題選擇、命名與標題策略](https://blog.kyomind.tw/2024-ironman-event/) - 09/12
- - [38，Kyo 待業中！細數我過去的待業時光（上）](https://blog.kyomind.tw/weekly-review-38/) - 09/09
- - [AI 讓寫作變輕鬆了？我可不這麼認為](https://blog.kyomind.tw/myth-of-ai-writing-efficiency/) - 09/05<!-- BLOG-POST-LIST:END -->
+ - [38，Kyo 待業中！細數我過去的待業時光（上）](https://blog.kyomind.tw/weekly-review-38/) - 09/09<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
