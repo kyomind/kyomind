@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Django Ninja 教學 03：Django Ninja 介紹——與 Django REST Framework 主要區別](https://blog.kyomind.tw/django-ninja-03/) - 09/15
  - [Django Ninja 教學 02：架構 × 章節導覽](https://blog.kyomind.tw/django-ninja-02/) - 09/13
- - [Django Ninja 教學 01：系列導讀 × 目標讀者](https://blog.kyomind.tw/django-ninja-01/) - 09/13
- - [2024 iThome 鐵人賽參賽思路：主題選擇、命名與標題策略](https://blog.kyomind.tw/2024-ironman-event/) - 09/12<!-- BLOG-POST-LIST:END -->
+ - [Django Ninja 教學 01：系列導讀 × 目標讀者](https://blog.kyomind.tw/django-ninja-01/) - 09/13<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
