@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
- - [Django Ninja 教學 09：Django Ninja 處理請求概論（兼論 FBVs）](https://blog.kyomind.tw/django-ninja-09/) - 09/21
- - [Django Ninja 教學 08：路由（下）Django Ninja 路由](https://blog.kyomind.tw/django-ninja-08/) - 09/20
- - [Django Ninja 教學 07：路由（上）傳統 Django 路由做法（兼章節概論）](https://blog.kyomind.tw/django-ninja-07/) - 09/19<!-- BLOG-POST-LIST:END -->
+ - [Django Ninja 教學 10：請求（二）路徑參數（Path Parameters）](https://blog.kyomind.tw/django-ninja-10/) - 09/22
+ - [Django Ninja 教學 09：請求（一）Django Ninja 處理請求概論（兼論 FBVs）](https://blog.kyomind.tw/django-ninja-09/) - 09/20
+ - [Django Ninja 教學 08：路由（下）Django Ninja 路由](https://blog.kyomind.tw/django-ninja-08/) - 09/20<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
