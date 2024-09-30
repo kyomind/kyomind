@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Django Ninja 教學 17：API 文件（上）Django Ninja 文件實踐指南](https://blog.kyomind.tw/django-ninja-17/) - 09/29
  - [Django Ninja 教學 16：回應（四）Resolver 方法——欄位資料格式化](https://blog.kyomind.tw/django-ninja-16/) - 09/28
- - [Django Ninja 教學 15：回應（三）為何不用 ModelSchema？——相比 DRF，我更偏愛 Django Ninja 的理由](https://blog.kyomind.tw/django-ninja-15/) - 09/27
- - [Django Ninja 教學 14：回應（二）巢狀結構回應](https://blog.kyomind.tw/django-ninja-14/) - 09/26<!-- BLOG-POST-LIST:END -->
+ - [Django Ninja 教學 15：回應（三）為何不用 ModelSchema？——相比 DRF，我更偏愛 Django Ninja 的理由](https://blog.kyomind.tw/django-ninja-15/) - 09/27<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
