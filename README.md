@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Django Ninja 教學 21：錯誤處理（上）自定義錯誤與 HTTP 回應](https://blog.kyomind.tw/django-ninja-21/) - 10/03
  - [Django Ninja 教學 20：資料驗證（下）跨欄位驗證](https://blog.kyomind.tw/django-ninja-20/) - 10/02
- - [Django Ninja 教學 19：資料驗證（上）單一欄位的自定義驗證](https://blog.kyomind.tw/django-ninja-19/) - 10/01
- - [Django Ninja 教學 18：API 文件（下）用 Pydantic Field 設定範例與預設值](https://blog.kyomind.tw/django-ninja-18/) - 09/30<!-- BLOG-POST-LIST:END -->
+ - [Django Ninja 教學 19：資料驗證（上）單一欄位的自定義驗證](https://blog.kyomind.tw/django-ninja-19/) - 10/01<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
