@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Django Ninja 教學 25：分頁（下）自定義分頁類別](https://blog.kyomind.tw/django-ninja-25/) - 10/07
  - [Django Ninja 教學 24：分頁（上）Django Ninja 的內建分頁器](https://blog.kyomind.tw/django-ninja-24/) - 10/06
- - [Django Ninja 教學 23：檔案上傳——Django UploadedFile 介紹](https://blog.kyomind.tw/django-ninja-23/) - 10/05
- - [Django Ninja 教學 22：錯誤處理（下）全域錯誤處理——深入解析 Exception Handlers](https://blog.kyomind.tw/django-ninja-22/) - 10/04<!-- BLOG-POST-LIST:END -->
+ - [Django Ninja 教學 23：檔案上傳——Django UploadedFile 介紹](https://blog.kyomind.tw/django-ninja-23/) - 10/05<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
