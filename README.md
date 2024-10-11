@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Django Ninja 教學 28：身分認證——Session 認證與全域設定](https://blog.kyomind.tw/django-ninja-28/) - 10/10
  - [Django Ninja 教學 27：資料查詢與過濾（下）FilterSchema 多欄位查詢](https://blog.kyomind.tw/django-ninja-27/) - 10/09
- - [Django Ninja 教學 26：資料查詢與過濾（上）FilterSchema 介紹](https://blog.kyomind.tw/django-ninja-26/) - 10/08
- - [Django Ninja 教學 25：分頁（下）自定義分頁類別](https://blog.kyomind.tw/django-ninja-25/) - 10/07<!-- BLOG-POST-LIST:END -->
+ - [Django Ninja 教學 26：資料查詢與過濾（上）FilterSchema 介紹](https://blog.kyomind.tw/django-ninja-26/) - 10/08<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
