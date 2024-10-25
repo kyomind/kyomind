@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [與 AI 共舞：我的 LeetCode 刷題之道（上）準備篇](https://blog.kyomind.tw/grind-leetcode-with-ai-preparation/) - 10/24
  - [Django Ninja 30：系列回顧與完賽心得](https://blog.kyomind.tw/django-ninja-30/) - 10/12
- - [單元測試——使用 Test Client 與 pytest 測試 API](https://blog.kyomind.tw/django-ninja-29/) - 10/11
- - [身分認證——Session 認證與全域設定](https://blog.kyomind.tw/django-ninja-28/) - 10/10<!-- BLOG-POST-LIST:END -->
+ - [單元測試——使用 Test Client 與 pytest 測試 API](https://blog.kyomind.tw/django-ninja-29/) - 10/11<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
