@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [GPTs 介紹：AI 刷題助手與使用方式](https://blog.kyomind.tw/gpts-for-leetcode/) - 11/30
  - [去了兩個月健身房之後——我的「有氧運動」進化史](https://blog.kyomind.tw/cardio-evolution-2-months/) - 11/14
- - [iThome 鐵人賽寫作攻略——新手必看指南](https://blog.kyomind.tw/ithome-ironman-tips/) - 11/13
- - [39，10 月回顧——鐵人賽、演算法與 AI](https://blog.kyomind.tw/weekly-review-39/) - 11/01<!-- BLOG-POST-LIST:END -->
+ - [iThome 鐵人賽寫作攻略——新手必看指南](https://blog.kyomind.tw/ithome-ironman-tips/) - 11/13<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
