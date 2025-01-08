@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [壓力太大怎麼辦？——接受殘缺與遺憾](https://blog.kyomind.tw/weekly-review-40/) - 01/07
  - [BBC 6 Minute English：提升英文聽力的好夥伴](https://blog.kyomind.tw/bbc-6-minute-english/) - 01/04
- - [我的 LeetCode 筆記：記錄刷題的簡單做法](https://blog.kyomind.tw/leetcode-notes-method/) - 12/24
- - [《給網站工程師的網路課》心得：Web 開發者的網路學習指南](https://blog.kyomind.tw/network-101-course/) - 12/21<!-- BLOG-POST-LIST:END -->
+ - [我的 LeetCode 筆記：記錄刷題的簡單做法](https://blog.kyomind.tw/leetcode-notes-method/) - 12/24<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
