@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [用 Docker 容器化你的 Django 專案](https://blog.kyomind.tw/dockerize-django-project/) - 01/24
  - [壓力太大怎麼辦？——接受殘缺與遺憾](https://blog.kyomind.tw/weekly-review-40/) - 01/07
- - [BBC 6 Minute English：提升英文聽力的好夥伴](https://blog.kyomind.tw/bbc-6-minute-english/) - 01/04
- - [我的 LeetCode 筆記：記錄刷題的簡單做法](https://blog.kyomind.tw/leetcode-notes-method/) - 12/24<!-- BLOG-POST-LIST:END -->
+ - [BBC 6 Minute English：提升英文聽力的好夥伴](https://blog.kyomind.tw/bbc-6-minute-english/) - 01/04<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
