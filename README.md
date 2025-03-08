@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [聊聊 AI 對創作者的衝擊](https://blog.kyomind.tw/weekly-review-41/) - 03/07
  - [逐漸被我遺忘的卡片筆記](https://blog.kyomind.tw/noteless/) - 01/25
- - [用 Docker 容器化你的 Django 專案](https://blog.kyomind.tw/dockerize-django-project/) - 01/24
- - [壓力太大怎麼辦？——接受殘缺與遺憾](https://blog.kyomind.tw/weekly-review-40/) - 01/07<!-- BLOG-POST-LIST:END -->
+ - [用 Docker 容器化你的 Django 專案](https://blog.kyomind.tw/dockerize-django-project/) - 01/24<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
