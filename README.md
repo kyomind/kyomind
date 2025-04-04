@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [待業 6 個月，我做了哪些事？](https://blog.kyomind.tw/weekly-review-42/) - 04/03
  - [筆記軟體 UpNote 最吸引我的三大亮點](https://blog.kyomind.tw/upnote/) - 03/29
- - [現代斯多葛——哲學能否成為信仰？](https://blog.kyomind.tw/stoicism/) - 03/15
- - [聊聊 AI 對創作者的衝擊](https://blog.kyomind.tw/weekly-review-41/) - 03/07<!-- BLOG-POST-LIST:END -->
+ - [現代斯多葛——哲學能否成為信仰？](https://blog.kyomind.tw/stoicism/) - 03/15<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
