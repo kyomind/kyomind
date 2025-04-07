@@ -9,7 +9,7 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
  - [為什麼我選擇用 Memos 寫日記](https://blog.kyomind.tw/memos/) - 04/05
- - [做人就要 NICE？我從《高效原力》學到的三件事](https://blog.kyomind.tw/feel-good-productivity/) - 04/04
+ - [《高效原力》書評：做人要 NICE，不要 SMART？](https://blog.kyomind.tw/feel-good-productivity/) - 04/04
  - [待業 6 個月，我做了哪些事？](https://blog.kyomind.tw/weekly-review-42/) - 04/03<!-- BLOG-POST-LIST:END -->
 
 ### Skills
