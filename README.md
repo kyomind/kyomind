@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [寫好 Python Docstring 的 4 個層次——從簡單到詳細](https://blog.kyomind.tw/python-docstring/) - 05/03
  - [從 DigitalOcean 到 Hetzner：我為何轉向這家德國 VPS 供應商](https://blog.kyomind.tw/hetzner/) - 04/26
- - [開源工具 Memos：寫日記的好選擇](https://blog.kyomind.tw/memos/) - 04/05
- - [《高效原力》書評：做人要 NICE，不要 SMART？](https://blog.kyomind.tw/feel-good-productivity/) - 04/04<!-- BLOG-POST-LIST:END -->
+ - [開源工具 Memos：寫日記的好選擇](https://blog.kyomind.tw/memos/) - 04/05<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
