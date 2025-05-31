@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Pyright 上手指南：Python 型別檢查的新選擇](https://blog.kyomind.tw/pyright/) - 05/30
  - [Pocket 替代方案推薦：Raindrop.io 與 Karakeep](https://blog.kyomind.tw/pocket-alternatives/) - 05/25
- - [OpenRouter 上的 5 個「免費」模型推薦](https://blog.kyomind.tw/openrouter-free-models/) - 05/24
- - [Docker 教學：用 Multi-stage build 建立 Poetry 虛擬環境](https://blog.kyomind.tw/poetry-multi-stage-build/) - 05/24<!-- BLOG-POST-LIST:END -->
+ - [OpenRouter 上的 5 個「免費」模型推薦](https://blog.kyomind.tw/openrouter-free-models/) - 05/24<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
