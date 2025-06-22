@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Gandi 惹惱了我😡——怒將域名轉至 Dynadot](https://blog.kyomind.tw/weekly-review-44/) - 06/21
  - [為 e2-micro VM 建立 SSH 連線：本機與 GitHub](https://blog.kyomind.tw/vm-ssh-setup/) - 06/14
- - [Imgur 封鎖台灣 IP，我把圖床搬到 Cloudflare R2](https://blog.kyomind.tw/weekly-review-43/) - 06/07
- - [Pyright 上手指南：Python 型別檢查的新選擇](https://blog.kyomind.tw/pyright/) - 05/30<!-- BLOG-POST-LIST:END -->
+ - [Imgur 封鎖台灣 IP，我把圖床搬到 Cloudflare R2](https://blog.kyomind.tw/weekly-review-43/) - 06/07<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
