@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [yadm 教學：實作 macOS 與 Linux 的 dotfiles 跨平台同步](https://blog.kyomind.tw/yadm-cross-platform/) - 06/28
  - [Gandi 惹惱了我😡——怒將域名轉至 Dynadot](https://blog.kyomind.tw/weekly-review-44/) - 06/21
- - [為 e2-micro VM 建立 SSH 連線：本機與 GitHub](https://blog.kyomind.tw/vm-ssh-setup/) - 06/14
- - [Imgur 封鎖台灣 IP，我把圖床搬到 Cloudflare R2](https://blog.kyomind.tw/weekly-review-43/) - 06/07<!-- BLOG-POST-LIST:END -->
+ - [為 e2-micro VM 建立 SSH 連線：本機與 GitHub](https://blog.kyomind.tw/vm-ssh-setup/) - 06/14<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
