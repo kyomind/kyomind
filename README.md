@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [Vibe Coding 與人類的時代](https://blog.kyomind.tw/vibe-coding/) - 07/10
  - [GitHub Actions 入門：自動化 Lint、Format 與 Type Check](https://blog.kyomind.tw/github-actions/) - 07/06
- - [yadm 教學：實作 macOS 與 Linux 的 dotfiles 跨平台同步](https://blog.kyomind.tw/yadm-cross-platform/) - 06/28
- - [Gandi 惹惱了我😡——怒將域名轉至 Dynadot](https://blog.kyomind.tw/weekly-review-44/) - 06/21<!-- BLOG-POST-LIST:END -->
+ - [yadm 教學：實作 macOS 與 Linux 的 dotfiles 跨平台同步](https://blog.kyomind.tw/yadm-cross-platform/) - 06/28<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
