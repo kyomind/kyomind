@@ -8,9 +8,9 @@ Check out my personal website, [Code and Me](https://blog.kyomind.tw/), for arti
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [我可能會付費 Perplexity](https://blog.kyomind.tw/perplexity/) - 12/28
  - [2025 我離不開的 8 項付費訂閱](https://blog.kyomind.tw/essential-subscriptions-2025/) - 09/20
- - [用 Side Project 學 CI：WeaMind 的 CI 實作策略](https://blog.kyomind.tw/weamind-ci/) - 08/31
- - [在 Hetzner 開新 VM 指南：選機房、SSH 連線、設定防火牆](https://blog.kyomind.tw/hetzner-vm/) - 07/27<!-- BLOG-POST-LIST:END -->
+ - [用 Side Project 學 CI：WeaMind 的 CI 實作策略](https://blog.kyomind.tw/weamind-ci/) - 08/31<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
