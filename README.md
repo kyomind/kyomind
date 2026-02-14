@@ -3,7 +3,8 @@
 A developer from Taiwan, transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyomind.tw/).
 
 ### 簡介
-法律系畢業，當過書記官，目前專注於 DevOps 與雲端領域。喜好寫作與筆記，患有「不做筆記便不會學習」症候群。眾多筆記 app 中，最常用 [Logseq](https://blog.kyomind.tw/logseq/)。對 [Code Formatting](https://blog.kyomind.tw/tags/Code-Formatting/) 與文件有著超乎常人的追求，平時負責督促同事寫好 docstring，廣積陰德，希望能夠[寫程式到 70 歲](https://blog.kyomind.tw/weekly-review-02/)。更完整的介紹可以參考「[關於我](https://blog.kyomind.tw/about/)」。
+
+軟體工程師，相信 AI 與 Infra 是開發者的未來。擅長用文字記錄學習，希望可以[寫到 70 歲](https://blog.kyomind.tw/weekly-review-02/)。更完整的介紹可以參考「[關於我](https://blog.kyomind.tw/about/)」。
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
