@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Kyo
 
-A developer from Taiwan, transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyomind.tw/).
+Transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyomind.tw/).
 
 ### 簡介
 
