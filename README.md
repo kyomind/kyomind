@@ -4,7 +4,7 @@ Transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyo
 
 ### 簡介
 
-軟體工程師，相信 AI 與 Infra 是開發者的未來。擅長用文字記錄學習，希望可以[寫到 70 歲](https://blog.kyomind.tw/weekly-review-02/)。更完整的介紹可以參考「[關於我](https://blog.kyomind.tw/about/)」。
+軟體工程師，相信 AI 與 [Infra](https://github.com/kyomind/weamind-infra) 是開發者的未來。擅長用文字記錄學習，希望可以[寫到 70 歲](https://blog.kyomind.tw/weekly-review-02/)。更完整的介紹可以參考「[關於我](https://blog.kyomind.tw/about/)」。
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->

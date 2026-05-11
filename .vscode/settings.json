@@ -4,5 +4,8 @@
         "true": true,
         "git pull": true,
         "git rev-parse": true
-    }
+    },
+    "cSpell.words": [
+        "gautamkrishnar"
+    ]
 }
