@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "printf": true,
+        "true": true,
+        "git pull": true,
+        "git rev-parse": true
+    }
+}
