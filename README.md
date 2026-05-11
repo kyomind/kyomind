@@ -14,9 +14,10 @@ Transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyo
 
 ### Skills
 
-![Python](https://img.shields.io/badge/Python-444?style=flat&logo=Python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-444?style=flat&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-444?style=flat&logo=Kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-444?style=flat&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-444?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-444?style=flat&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-444?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-444?style=flat&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-444?style=flat&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444?style=flat&logo=PostgreSQL&logoColor=white)
 <img align="right" src="https://komarev.com/ghpvc/?username=kyomind">
