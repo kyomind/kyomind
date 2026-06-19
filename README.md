@@ -8,9 +8,9 @@ Transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyo
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [我退訂了 GitHub Copilot](https://blog.kyomind.tw/unsubscribe-github-copilot/) - 06/18
  - [我 40 歲，主動離職，All in DevOps](https://blog.kyomind.tw/all-in-on-devops/) - 06/14
- - [Kubernetes 視覺化工具怎麼選？初學者的 GUI、TUI 指南](https://blog.kyomind.tw/kubernetes-gui-tui-guide/) - 04/12
- - [K3s 是什麼？為什麼我選擇用 K3s 部署 WeaMind](https://blog.kyomind.tw/k3s-for-weamind/) - 03/29<!-- BLOG-POST-LIST:END -->
+ - [Kubernetes 視覺化工具怎麼選？初學者的 GUI、TUI 指南](https://blog.kyomind.tw/kubernetes-gui-tui-guide/) - 04/12<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
