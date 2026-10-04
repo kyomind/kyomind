@@ -8,9 +8,9 @@ Transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyo
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [一波三折的 CKA 之旅](https://blog.kyomind.tw/stumbling-on-cka/) - 10/03
  - [Hermes Agent 新手指南：從入門到進階的 10 個設定](https://blog.kyomind.tw/hermes-agent/) - 07/11
- - [告別 ClickOps：用 Terraform 重建 GCP 免費 VM](https://blog.kyomind.tw/terraform-gcp-free-tier-vm/) - 07/11
- - [為你的 AI Agent 掛上 Hooks 吧！](https://blog.kyomind.tw/agent-hooks/) - 07/10<!-- BLOG-POST-LIST:END -->
+ - [告別 ClickOps：用 Terraform 重建 GCP 免費 VM](https://blog.kyomind.tw/terraform-gcp-free-tier-vm/) - 07/11<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
