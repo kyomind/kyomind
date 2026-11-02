@@ -8,9 +8,9 @@ Transitioning into DevOps. Check out my tech blog [Code and Me](https://blog.kyo
 
 ### 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - [我不喜歡英雄敘事](https://blog.kyomind.tw/himmel/) - 11/01
  - [WeaMind CD 實戰：從 Docker Image 建置與發布到 Kubernetes 部署](https://blog.kyomind.tw/weamind-cd/) - 10/30
- - [一波三折的 CKA 之旅](https://blog.kyomind.tw/stumbling-on-cka/) - 10/03
- - [Hermes Agent 新手指南：從入門到進階的 10 個設定](https://blog.kyomind.tw/hermes-agent/) - 07/11<!-- BLOG-POST-LIST:END -->
+ - [一波三折的 CKA 之旅](https://blog.kyomind.tw/stumbling-on-cka/) - 10/03<!-- BLOG-POST-LIST:END -->
 
 ### Skills
 
